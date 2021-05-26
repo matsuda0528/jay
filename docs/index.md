@@ -12,10 +12,12 @@
 
 ## 記事の管理・記事の新規作成
 ヘッダにある Minutes をクリックすると下の画像のように，現在投稿されている記事の一覧を確認することができる．  
+また，ページの下部にある "+" のアイコンをクリックすると新しい記事を作成することができる．  
 
-<img src="images/jay3.png" width="50%">  
+<img src="images/jay3.png" width="50%"> <img src="images/jay7.png" width="50%">    
 
 ## タグの管理・タグの新規登録
 ヘッダにある Tags をクリックすると下の画像のように，現在登録されているタグの一覧を確認することができる．  
+また，ページの下部にある "+" のアイコンをクリックすると新しいタグを登録することができる．  
 
-<img src="images/jay4.png" width="50%">  
+<img src="images/jay4.png" width="50%"> <img src="images/jay6.png" width="50%">  
