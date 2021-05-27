@@ -9,12 +9,12 @@ jay ではマークダウンを拡張した記法を用いて文書を作成で�
 
 "\*": 通常の箇条書き
 
-![itemize](images/itemize.jpg)
+![itemize](images/itemize.png)
 
 "+": 項番付きの箇条書き
 css に頼らないため，コピペできる．
 
-![enumerate](images/enumerate.jpg)
+![enumerate](images/enumerate.png)
 
 ## クロスリファレンス
 ラベルをつけることで参照することできる．
@@ -23,4 +23,4 @@ css に頼らないため，コピペできる．
 
 "[\[name\]]": ラベルに対する参照（後方参照可能）
 
-![cross-reference](images/cross-reference.jpg)
+![cross-reference](images/cross-reference.png)
